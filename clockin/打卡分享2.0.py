@@ -1,3 +1,4 @@
+!#/usr/bin/python
 import cv2,requests,sys,os,time,smtplib
 from PIL import ImageFont, ImageDraw, Image
 import numpy as np
